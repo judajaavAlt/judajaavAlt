@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlwam2M8cpnoe31EaLvOvN6Ra4ujQJdRlcRw&s" alt="Profile Image" width="120"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlwam2M8cpnoe31EaLvOvN6Ra4ujQJdRlcRw&s" alt="Profile Image" width="360"/>
 
 <!--
 **judajaavAlt/judajaavAlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
